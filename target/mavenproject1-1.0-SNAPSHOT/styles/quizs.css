@@ -1,0 +1,49 @@
+body{
+	font-size: 20px;
+}
+h2{
+    font-size: 25px;
+}
+input[type=submit],
+input[type=reset]
+{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	background: #e67e22;
+	border: none;
+	color:white;
+	border-radius: 100px;
+	margin-top: 10px;
+        transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+input[type=submit]:hover{
+        background: #009432;
+        color:white;
+        border: none;
+}
+input[type=reset]:hover{
+        background: #e62222;
+        color:white;
+        border: none;
+}
+
+a:hover{
+        background: #1f12a1;
+        color:white;
+        border: none;
+}
+a{
+	background: #e67e22;
+	border: none;
+        font-size: 20px;
+	padding: 3px 8px 4px 8px;
+	width: 70px;
+	text-align: center;
+	border-radius: 100px;
+	color:white;
+	text-decoration: none;
+	display: block;
+	margin-top: 30px;
+        transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
