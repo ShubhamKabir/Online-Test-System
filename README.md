@@ -16,3 +16,17 @@ Online Test (Quiz) system using Java- JSP, Servlets, JDBC
 4. Add SQL Connecter jar file in IDE library
 5. Connect to the database 'quizdb' in IDE
 6. Build and run the project 
+
+# Screenshots
+
+## Index page
+
+![](screenshots/index.png)
+
+## Questions Page
+
+![](screenshots/quest.png)
+
+## Result Page
+
+![](screenshots/result.png)
